@@ -11,12 +11,15 @@ Create a system that uses queue and deque structures to manage a factory and aut
 C++, data structure
 
 <b>Repository:</b> <a href="https://github.com/leoreigoto/Production_and_stock_management_system/">https://github.com/leoreigoto/Production_and_stock_management_system/</a>
-Inside the repository there are :
+
+The repository contains :
 - english version of the code
 - video in portuguese explaining the project
   
  TO DO: translate it (this video was done for a discipline in my masters course)
+ 
 [![Stock and Production Management System](https://github.com/leoreigoto/leoreigoto.github.io/assets/48571786/69031dd7-e11c-495d-8539-698568b8f626)](https://youtu.be/Y4ufX6tZl0U?t=184 "Stock and Production Management System")
+
 - article in portuguese explaining the project
 
 TO DO: translate it
